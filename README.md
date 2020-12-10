@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 📫 笔记记录区: https://i493052739.github.io/
+### ⚡ 创作支持区: https://afdian.net/@JasperBear
 <!--
 **i493052739/i493052739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
