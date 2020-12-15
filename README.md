@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### 📫 笔记记录区: https://i493052739.github.io/
+#### 📫 笔记记录区: https://blog.csdn.net/i493052739/
+#### 🏕️ HTML学习区：https://i493052739.github.io/
 #### ⚡ ~~创作支持区: https://afdian.net/@JasperBear (Alipay) https://www.buymeacoffee.com/JasperBear (PayPal)~~
 
 <!--
