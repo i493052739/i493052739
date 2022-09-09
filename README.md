@@ -1,12 +1,14 @@
-### Hi there 👋
-#### 📫 笔记记录区: https://blog.csdn.net/i493052739/   知乎：https://www.zhihu.com/people/fang-si-yu-84/answers
+### Hi there
+#### 📫 笔记记录区: https://blog.csdn.net/i493052739/      知乎：https://www.zhihu.com/people/fang-si-yu-84/answers
+#### 🌱 力扣：https://leetcode.cn/u/mei-duo-yin-hai-wen/   牛客：https://www.nowcoder.com/users/938702164/
 #### 🏕️ 学习区：https://i493052739.github.io/   个人站： http://snowk.top/
 #### ⚡ ~~创作支持区: https://afdian.net/@JasperBear (Alipay) https://www.buymeacoffee.com/JasperBear (PayPal)~~
+
+
 <!--
-**i493052739/i493052739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**i493052739/i493052739** is a ✨ _special_ ✨ repository 
+because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
