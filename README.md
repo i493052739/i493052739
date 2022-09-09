@@ -1,6 +1,6 @@
 ### Hi there
 #### 📫 笔记记录区: https://blog.csdn.net/i493052739/      知乎：https://www.zhihu.com/people/fang-si-yu-84/answers
-#### 🌱 力扣：https://leetcode.cn/u/mei-duo-yin-hai-wen/   牛客：https://www.nowcoder.com/users/938702164/
+#### 🌱 力扣：https://leetcode.cn/u/mei-duo-yin-hai-wen/   牛客：https://www.nowcoder.com/users/938702164/tests?type=2
 #### 🏕️ 学习区：https://i493052739.github.io/   个人站： http://snowk.top/
 #### ⚡ ~~创作支持区: https://afdian.net/@JasperBear (Alipay) https://www.buymeacoffee.com/JasperBear (PayPal)~~
 
