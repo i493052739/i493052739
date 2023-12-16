@@ -1,6 +1,6 @@
 #### 📫 CSDN: https://blog.csdn.net/i493052739/      知乎：https://www.zhihu.com/people/fang-si-yu-84/answers
 #### 🌱 力扣：https://leetcode.cn/u/mei-duo-yin-hai-wen/   牛客：https://www.nowcoder.com/users/938702164/tests?type=2
-#### 🏕️ 笔记：https://i493052739.github.io/    个人站： http://snowk.top/    Gitee: https://gitee.com/jasperff
+#### 🏕️ 笔记：https://i493052739.github.io/    Gitee: https://gitee.com/jasperff
 #### ⚡ 爱发电: https://afdian.net/@JasperBear  (PayPal) https://www.buymeacoffee.com/JasperBear
 
 
