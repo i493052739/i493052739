@@ -1,4 +1,5 @@
-#### ⚡ 爱发电: https://afdian.net/@JasperBear  (PayPal) https://www.buymeacoffee.com/JasperBear
+#### ⚡ (Alipay Support) https://afdian.net/@JasperBear  
+#### 🍺 (PayPal Support) https://www.buymeacoffee.com/JasperBear
 
 
 <!--
