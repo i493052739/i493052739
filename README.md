@@ -1,5 +1,5 @@
-#### ⚡ (Alipay Support) https://afdian.net/@JasperBear  
-#### 🍺 (PayPal Support) https://www.buymeacoffee.com/JasperBear
+#### ⚡ Support Me (Alipay) https://afdian.net/@JasperBear  
+#### 🍺 Support Me (PayPal) https://www.buymeacoffee.com/JasperBear
 
 
 <!--
